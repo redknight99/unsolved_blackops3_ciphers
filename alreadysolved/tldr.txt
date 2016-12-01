@@ -1,0 +1,14 @@
+Cipher1 - Solved by /u/waterkh  - Cipher Image: http://i.imgur.com/HUZAF5K.png - Cipher Type: Substitution
+	Plaintext:
+		I am the last of us but I will be joining you soon my friends -cough, cough- death is near. I hope what we have done doesn't come back to bite this universe in the ass. Thank god we will all be gone because If Monty ever found this place, we would have been in a world of shit. Maybe now with us all gone, the children will truly be safe. -D 
+
+Cipher2 - Solved by /u/waterkh et all - Cipher Image: http://i.imgur.com/z7Efo8M.png - Cipher Type: ADFGX
+	Plaintext:
+		From all of us at Treyarch, it has been a fun and amazing experience making zombies with you these last eight years without your love and input none of this could have been possible. Thank you for playing
+
+Cipher3 - Solved by /u/Lizizadolphin et all - Cipher Image: http://i.imgur.com/dVcJddr.png - Cipher Type: Transposition
+	Plaintext:
+		Thanks to the sacrifice of Maxis and the contraption called Sophia all the 115 has been purged from the final universe. Thank fucking god. Time to get some rest. -M
+
+
+ 
