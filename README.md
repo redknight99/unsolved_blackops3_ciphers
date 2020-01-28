@@ -1,2 +1,2 @@
-# black_ops_3_ciphers
-A repo for work on the remaining unsolved ciphers of Black Ops3
+# unsolved_blackops_ciphers
+The purpose of this repo is to provide information around the remaining unsolved classical cryptography ciphers in the Call of Duty franchise Black Ops.
