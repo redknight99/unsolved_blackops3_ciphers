@@ -1,4 +1,4 @@
-Cipher 1
+**Cipher 1**
 
 **Description:**
 This cipher according to our source of truth has already been solved.
