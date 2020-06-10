@@ -1,8 +1,8 @@
-This directory contains the source of truth of Black Ops 3 Revelations Cipher 5.
+This directory contains the source of truth of Black Ops 3 Revelations **Cipher 5**.
 
 wiki_code_name = kino_book
 
-In the alternate source of truth wiki this cipher is known as Cipher 6. Both
+In the alternate source of truth wiki this cipher is known as **Cipher 6**. Both
 sources of truth currently have it as UNSOLVED.
 
 TODOS:
