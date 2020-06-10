@@ -4,7 +4,7 @@ Cipher 1
 This cipher according to our source of truth has already been solved.
 
 **Cipher Type:**
-Our Wiki source of truth shows that it was a substitution cipher but we have not confirmed that. 
+Our Wiki source of truth shows that it was a *Substitution Cipher* but we have not confirmed that. 
 
 
 **TODOs**
