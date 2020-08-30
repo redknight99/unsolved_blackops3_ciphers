@@ -1,8 +1,9 @@
 # Cipher 14
 
+## Description
 This directory contains information on the unsolved Black Ops 3 Revelations Map Cipher 14.
 
-Code_Name: 
+![alt text](https://github.com/redknight99/unsolved_blackops3_ciphers/blob/master/cipher_14/cipher14.png?raw=true)
 
-Alternative ID Number:
-
+## TODOs
+1. 
