@@ -1,7 +1,12 @@
-# Cipher 6
+# Cipher 06
+ 
+## Descripiton
+This directory contains information on solving the Call of Duty Black Ops 3 Zombies Revelations Cipher 06.
 
-CODE_NAME: 
+![alt text](https://github.com/redknight99/unsolved_blackops3_ciphers/blob/master/cipher_06/cipher6.png?raw=true)
 
-Alternative ID:
+## Cipher Location Video Reference
 
-This directory contains information on solving the Call of Duty Black Ops 3 Zombies Revelations Cipher 6.
+TODOs:
+1. abc
+2. 
