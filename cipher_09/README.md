@@ -1,4 +1,4 @@
-# Cipher 9
+# Cipher 09
 
 ## Description
 This directory contains information on Cipher 09 of Black Ops 3 "Revelations" map.
