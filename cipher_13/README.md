@@ -1,7 +1,9 @@
 # Cipher 13
 
-CODE_NAME:
+## Alternative Name
 
-Alternative Name:
-
+## Description
 This directory contains information on Cipher 13 of Black Ops 3 Zombies Revelations Map.
+
+# TODOs
+1. 
