@@ -1,4 +1,4 @@
-# Cipher 4
+# Cipher 04
 
 This directory contains information about the Black Ops 3 Zombies Revelations Map Cipher 4.
 
