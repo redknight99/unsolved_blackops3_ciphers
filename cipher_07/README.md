@@ -1,9 +1,9 @@
-# Cipher 06
+# Cipher 07
  
 ## Descripiton
-This directory contains information on solving the Call of Duty Black Ops 3 Zombies Revelations Cipher 06.
+This directory contains information on solving the Call of Duty Black Ops 3 Zombies Revelations Cipher 07.
 
-![alt text](https://github.com/redknight99/unsolved_blackops3_ciphers/blob/master/cipher_06/cipher6.png?raw=true)
+![alt text](https://github.com/redknight99/unsolved_blackops3_ciphers/blob/master/cipher_07/cipher7.png?raw=true)
 
 ## Cipher Location Video Reference
 
