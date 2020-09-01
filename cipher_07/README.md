@@ -7,6 +7,5 @@ This directory contains information on solving the Call of Duty Black Ops 3 Zomb
 
 ## Cipher Location Video Reference
 
-TODOs:
-1. abc
-2. 
+## Current Analysis
+In Progress.
