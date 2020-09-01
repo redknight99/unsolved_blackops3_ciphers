@@ -7,7 +7,6 @@ This directory contains information about the Black Ops 3 Zombies Revelations Ma
 
 ## Cipher Location Video Reference
 
-TODOs:
-  1. 
-  
+## Current Analysis
+In Progress.
   
