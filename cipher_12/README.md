@@ -8,5 +8,5 @@ This directory contains information on the Black Ops 3 Zombies Revelations Map c
 
 ![alt text](https://github.com/redknight99/unsolved_blackops3_ciphers/blob/master/cipher_12/cipher12.png?raw=true)
 
-## TODOs:
-  1. 
+## Current Analysis
+In Progress.
