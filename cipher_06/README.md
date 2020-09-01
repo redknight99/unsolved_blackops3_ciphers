@@ -12,7 +12,5 @@ sources of truth currently have it as UNSOLVED.
 
 ## Cipher Location Video Reference
 
-## TODOS:
-1. Have a CI with webhook / scheduled task / etc to show if our Github notes are
-currently up to date.
-2. 
+## Current Analysis
+In progress.
