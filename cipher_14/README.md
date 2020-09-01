@@ -8,5 +8,5 @@ This directory contains information on the unsolved Black Ops 3 Revelations Map 
 
 ![alt text](https://github.com/redknight99/unsolved_blackops3_ciphers/blob/master/cipher_14/cipher14.png?raw=true)
 
-## TODOs
-1. 
+## Current Analysis
+In Progress.
