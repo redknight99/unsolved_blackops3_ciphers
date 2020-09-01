@@ -7,5 +7,5 @@ This directory contains information on the Black Ops 3 Zombies Revelations Map C
 
 ## Cipher Location Video Reference
 
-TODOs:
-  1. 
+## Current Analysis
+In Progress.
