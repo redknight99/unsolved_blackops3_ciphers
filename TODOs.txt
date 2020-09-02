@@ -1,6 +1,0 @@
-1. Develop letter frequency charts of multiple languages such as French, German, and Spanish.
-2. Tool to develop frequency chart of a given hex encoded string. (Occurence count of multiple hex bytes)
-3. Develop a Base64 / binary encoding chart.
-4. Document with video and wording the physical location of each of the ciphers. 
-5. Develop a crib sheet of possible Zombies related crib strings.
-6. 
