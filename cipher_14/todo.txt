@@ -1,1 +1,0 @@
-* Look into whether the cipher14.txt is formatted properly. It looks different from the picture.
