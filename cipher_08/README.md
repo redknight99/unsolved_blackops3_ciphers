@@ -1,5 +1,8 @@
 # Cipher 08
 
+## Code Name
+SamsRoom_Floor
+
 ## Description
 This directory contains information on the Black Ops 3 Zombies Revelations Map Cipher 08. 
 
