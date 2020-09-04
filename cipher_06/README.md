@@ -1,7 +1,7 @@
 # Cipher 06
 
 ## Code Name
-
+Kino_Book
 
 ## Description
 This directory contains the source of truth of Black Ops 3 Revelations **Cipher 6**.
