@@ -1,7 +1,7 @@
 # Cipher 13
 
-## Alternative Name
-Odd Playfare Clone
+## Code Name
+Shangrila_Pairs
 
 ## Description
 This directory contains information on Cipher 13 of Black Ops 3 Zombies Revelations Map.
