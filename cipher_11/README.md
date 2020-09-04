@@ -1,6 +1,6 @@
 # Cipher 11
 
-## Alternative Name
+## Code Name
 DE_Bucket
 
 ## Description
