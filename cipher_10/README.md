@@ -1,5 +1,8 @@
 # Cipher 10
 
+## Code Name
+Shangrila_Book
+
 ## Description
 This directory contains information on Cipher 10 of Black Ops 3 "Revelations" map.
 
