@@ -1,7 +1,7 @@
 # Cipher 11
 
 ## Alternative Name
-Short Snippet #1
+DE_Bucket
 
 ## Description
 This directory contains information about Cipher 11 of Black Ops 3 Zombies Revelations Map.
